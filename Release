@@ -1,0 +1,8 @@
+Origin: Casp's Private Repo
+Label: Casp's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: CAsp's Repo

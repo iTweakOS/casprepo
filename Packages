@@ -1,0 +1,13 @@
+Package: com.casp.inapp
+Version: 1.0~beta1a
+Architecture: iphoneos-arm
+Maintainer: Casp <email@com>
+Filename: /inAppPurchases1.0~beta1a.deb
+Size: 4080
+MD5sum: 2999bd923df35d23d06c95a64b8079d0
+SHA1: 9bc93a2057b47bb8d79d07bd2ae9cf21e2ea80d9
+SHA256: dfe0adf5983204f9f92308ccc28d5a7ea8abfbed3486aee3b17aab444d5d1b9c
+Section: Tweaks
+Description: Free In App P
+Author: CAsp (email.com)
+Name: InApp ios11
